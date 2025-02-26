@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my life adventure
 - 🌱 I’m currently learning more python
-- 📫 How to reach me: github or discord
+- 📫 How to reach me: github, LinkedIn or discord
 
 🚀 Key Skills:
 
